@@ -1,0 +1,6 @@
+sbt
+run
+code .
+exit
+sbt
+run
